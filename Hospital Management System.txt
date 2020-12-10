@@ -1,0 +1,9 @@
+Hospital Management System
+
+Project idea – 
+Build a web app to manage the work of a hospital. 
+The system shall have an interface to create a doctor’s account and add records of all the details of the patient. 
+It should also have easy accessing and searching of records technique.
+
+ 
+
